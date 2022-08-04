@@ -1,6 +1,5 @@
 body {
   background-color: black;
-  color: wheat;
 }
 
 .top-menu {
@@ -12,5 +11,6 @@ body {
   position: fixed;
   margin-top: 60px;
   margin-left: 60px;
-  font-size: 45px;
+  font-size: 30px;
+  color: red;
 }
