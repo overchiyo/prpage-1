@@ -1,0 +1,11 @@
+@import "../variables/reset.css";
+@import "../variables/variables.css";
+
+/*fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+
+/*components*/
+@import "../components/header.css";
+
+/*style*/
+@import "../css/gate.css";

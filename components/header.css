@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: wheat;
+}
+
+.top-menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation :first-child {
+  position: fixed;
+  margin-top: 60px;
+  margin-left: 60px;
+  font-size: 45px;
+}
